@@ -35,7 +35,7 @@ Hold down X and press OK to clear the screen.
 
 The first column on the left is the scroll bar and shows a blinking cursor at your current letter position.
 
-Colums 3 to 8 show the entered letters, one letter a line.
+Columns 3 to 8 show the entered letters, one letter a line.
 
 You enter the text in the time proven, user friendly format of morse code.
 
@@ -56,6 +56,7 @@ that there is more text above. A blinking dot at the bottom will show you if you
 Press OK from the editor to enter the scroll window
 
 Allowed characters are A - Z, 0 - 9
+
 A morse code chart is at
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/473px-International_Morse_Code.svg.png
 
